@@ -3,3 +3,5 @@ Asdf Asa
 
 
 asdfasdf
+
+alteração para testar merge no Smart Git
