@@ -10,5 +10,5 @@ alteração para testar merge no Smart Git
 
 123
 
-
+Alteração no servidor
 Outra altera;áoi
