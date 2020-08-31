@@ -4,8 +4,8 @@ Asdf Asa
 
 asdfasdf
 
-<<<<<<< HEAD
 Teste local para teste de Merge
-=======
+
 alteração para testar merge no Smart Git
->>>>>>> origin/dev1
+
+123
