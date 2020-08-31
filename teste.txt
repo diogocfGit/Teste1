@@ -1,2 +1,1 @@
-teste linha 1 teste linha 2
-teste linha 3
+testando o merge do git
